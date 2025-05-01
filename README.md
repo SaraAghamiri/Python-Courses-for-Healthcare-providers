@@ -2,6 +2,7 @@
 
 
 🩺 Python for Healthcare Providers – Technical Course Overview
+
 🟢 Level 1: Beginner – Python Foundations for Clinical Insight
 ✅ Objective:
 Build foundational coding skills using clinically relevant datasets and tasks.
