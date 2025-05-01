@@ -4,6 +4,7 @@
 🩺 Python for Healthcare Providers – Technical Course Overview
 
 🟢 Level 1: Beginner – Python Foundations for Clinical Insight
+
 ✅ Objective:
 Build foundational coding skills using clinically relevant datasets and tasks.
 
@@ -21,6 +22,7 @@ Basic plotting (matplotlib.pyplot, seaborn)
 Summary statistics (mean(), median(), .groupby())
 
 📦 Key Packages:
+
 pandas
 
 numpy
@@ -48,6 +50,7 @@ Manual chart review automation
 Understanding lab panels, medications, demographics, and comorbidities
 
 🟡 Level 2: Intermediate – Data Wrangling and Clinical Decision Support
+
 ✅ Objective:
 Empower clinicians to clean, transform, and analyze structured medical datasets, with basic model-driven decision-making.
 
@@ -65,6 +68,7 @@ Data validation and error-checking pipelines
 Intro to classification models (e.g., logistic regression, random forests)
 
 📦 Key Packages:
+
 pandas, numpy, scipy
 
 scikit-learn
@@ -94,6 +98,7 @@ Clinical quality improvement analysis (e.g., antibiotic use vs guidelines)
 Dashboard for tracking hospital readmission risk
 
 🔴 Level 3: Expert – Modeling, Integration, and Simulation for Precision Care
+
 ✅ Objective:
 Enable advanced users to build predictive models, integrate multimodal data (e.g., text, imaging, EHR), and simulate care pathways using digital twin logic.
 
@@ -111,6 +116,7 @@ Building APIs for clinical model deployment (Flask, FastAPI)
 Simulation: agent-based or rule-based models for care pathways
 
 📦 Key Packages:
+
 scikit-learn, xgboost, lightgbm
 
 nltk, spaCy, transformers (for clinical NLP)
