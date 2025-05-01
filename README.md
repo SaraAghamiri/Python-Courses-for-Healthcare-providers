@@ -49,6 +49,8 @@ Manual chart review automation
 
 Understanding lab panels, medications, demographics, and comorbidities
 
+--------------------------------------------------------------------------------------------------------------------------------------
+
 🟡 Level 2: Intermediate – Data Wrangling and Clinical Decision Support
 
 ✅ Objective:
@@ -96,6 +98,8 @@ Risk prediction models for chronic disease
 Clinical quality improvement analysis (e.g., antibiotic use vs guidelines)
 
 Dashboard for tracking hospital readmission risk
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
 🔴 Level 3: Expert – Modeling, Integration, and Simulation for Precision Care
 
